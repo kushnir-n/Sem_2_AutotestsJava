@@ -20,6 +20,5 @@ public class Main {
         portfolio.add(element4);
         portfolio.add(element5);
 
-        System.out.println(portfolio.getSum());
-    }
+        System.out.println(portfolio.getSum());    }
 }
